@@ -1,2 +1,3 @@
 # bogos
-So you're telling me that there is no formatting required? ZAMN!
+Simple game made in comp sci class as the final project
+Made with Cogan
